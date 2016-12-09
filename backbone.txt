@@ -1,0 +1,20 @@
+database:
+	name: dbers
+	
+tables:
+	users: administrators, firefighters, policemen, medical forces, reporters. 
+	static information: fire stations, police stations, hospitals
+	dynamic information: accidents
+	
+server-side application:
+	get data or queries from clients, insert/query data to/from database
+	
+client-side application:
+	show forms:
+	registration, report, search, response
+	
+Team leaders:	
+	regulate names of information
+	keep project going on
+	assure qualites
+	
