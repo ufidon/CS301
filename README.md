@@ -46,7 +46,7 @@ Online materials and codes for CS301 - Information System Design and Analysis
 *  https://www.openmodelica.org/  
 *  http://opensimulator.org/wiki/Main_Page   
 *  https://omnetpp.org/  
-
+*  install openmodelica without installing texlive: http://texblog.net/latex-archive/uncategorized/kile-texlive-2008-equivs/
 
 ##XAMPP
 https://www.apachefriends.org/index.html  
